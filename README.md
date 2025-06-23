@@ -3,6 +3,10 @@
 Step into a world of virtual wonders!
 This project is developed using **OpenGL in C++** and showcases a captivating 3D virtual room featuring brick walls, a glass roof, mirrors, and interactive elements.
 
+## Demo Video
+
+[👉 Click here to watch the demo](https://www.youtube.com/watch?v=xpCOPLiZYlE)
+
 ## Installation Instructions
 
 ### 1. Install Code::Blocks
@@ -65,6 +69,3 @@ To configure GLUT for your Code::Blocks environment:
 
 ---
 
-## Demo Video
-
-[👉 Click here to watch the demo](https://www.youtube.com/watch?v=xpCOPLiZYlE)
