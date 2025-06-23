@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1434608545 source:c:\users\d r a\desktop\opengl work\xz\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<assert.h>
+	"materials.h"
+	<math.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdio.h>
+	<windows.h>
+
+1434021957 source:c:\users\d r a\desktop\opengl work\xz\table.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1434231163 source:c:\users\d r a\desktop\opengl work\xz\room.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1434575899 c:\users\d r a\desktop\opengl work\xz\materials.h
+
+1434201101 source:c:\users\d r a\desktop\opengl work\xz\textute_functions.cpp
+
+1434282943 source:c:\users\d r a\desktop\opengl work\xz\sun_moon_action.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
